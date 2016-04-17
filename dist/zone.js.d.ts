@@ -443,3 +443,4 @@ interface MacroTask extends Task {
 interface EventTask extends Task {
 }
 declare const Zone: ZoneType;
+export default Zone;
